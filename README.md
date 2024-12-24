@@ -1,4 +1,5 @@
 # alpine-wordpress-fpm
-A Fast Wordpress Helm Chart with Alpine - WordPress, httpd an MySql
+
+A Fast Wordpress Helm Chart with Alpine WordPress and php-fpm, Alpine httpd and Alpine MySql docker images packaged in a single pod and persistent volume to deploy wordpress on Kubernetes clusters.
 
 Coming Soon. Please check back shortly.
